@@ -1,6 +1,6 @@
 # ML-NYU
 
-This repository contains the python notebooks solved in the Machine Learning course by Prof Fraida Fund at NYU. 
+This repository contains the python notebooks solved in the Machine Learning course ECE-GY 6143 by Prof Fraida Fund at NYU. 
 
 2_advertising_hw.ipynb focuses on employing linear regression models to ascertain the influence of media spend on sales, thereby offering strategic insights for optimizing advertising budgets. This technical exercise encompasses exploratory data analysis, model building, and interpretation of regression coefficients, serving as a comprehensive guide in mastering statistical methods and predictive modeling.
 
